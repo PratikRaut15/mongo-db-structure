@@ -1,1 +1,1 @@
-db.test.find({'data.lastupdated': {$gte : '2019-10-06 00:00:46'},customerno : 549,"date" : "2019-10-06"}).pretty();
+db.test.find({date : "2019-10-06" ,customerno : 549,"data.lastupdated" : {"$gte" : "2019-10-06 00:00:00", "$lte" : "2019-10-06 23:59:59" }}).pretty();

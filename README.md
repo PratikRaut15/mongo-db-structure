@@ -1,6 +1,6 @@
 This is README.md
 
-Install MongoDb in Windows
+Install MongoDb
 
 https://www.mongodb.com/download-center/community?jmp=docs
 

@@ -1,0 +1,1 @@
+mongoimport --db speed --collection reports --drop --file reports.json
